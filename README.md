@@ -21,16 +21,16 @@ Clona el repositorio
 git clone https://github.com/tu-usuario/amigo-secreto.git
 Abre el archivo index.html en tu navegador.
 
-📂 Estructura del proyecto
-📁 amigo-secreto
-│── 📂 assets          # Imágenes y recursos
-│── 📜 index.html      # Archivo principal HTML
-│── 📜 style.css       # Estilos CSS
-│── 📜 app.js          # Lógica en JavaScript
-│── 📜 README.md       # Documentación del proyecto
+Estructura del proyecto
+amigo-secreto
+│──  assets          # Imágenes y recursos
+│──  index.html      # Archivo principal HTML
+│──  style.css       # Estilos CSS
+│──  app.js          # Lógica en JavaScript
+│──  README.md       # Documentación del proyecto
 
 
-📌 Mejoras futuras
+Mejoras futuras
 * Evitar que se repitan nombres en la lista.
 * Agregar la opción de eliminar nombres.
 * Crear una interfaz más atractiva con CSS avanzado.
